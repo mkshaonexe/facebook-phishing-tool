@@ -9,11 +9,11 @@ Install my-tool on termux by using thoes commands
 
 pkg install update && pkg upgrade -y
 
-pkg install php
+pkg install php -y 
 
-pkg install openssh
+pkg install openssh -y 
 
-pkg install git
+pkg install git -y
 
 gitclone https://github.com/mkmkshaon/facebook-phishing-tool.git
 
