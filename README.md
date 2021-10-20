@@ -6,6 +6,7 @@
 Install my-tool on termux by using thoes commands 
 
 ```bash
+
 pkg install update && pkg upgrade -y
 
 pkg install php
@@ -16,9 +17,17 @@ pkg install git
 
 gitclone https://github.com/mkmkshaon/facebook-phishing-tool.git
 
-cd facebook-phishing-tool
+
 ```
-    
+
+## How to run 
+
+```bash
+cd facebook-phishing-tool
+
+php -S 127.0.0.1:8080
+
+ ```   
 
 
 ![image](https://user-images.githubusercontent.com/90413704/138065091-22a7fdd9-0766-4c0a-bcd7-25a8a0217ce4.png)
