@@ -29,7 +29,16 @@ cd facebook-phishing-tool
 php -S 127.0.0.1:8080
 
  ```   
+## how to send link :
 
+
+```bash
+  coppy 👇
+
+  127.0.0.1:8080 
+  
+  👆then send it to then victime
+```
 
 ![image](https://user-images.githubusercontent.com/90413704/138065091-22a7fdd9-0766-4c0a-bcd7-25a8a0217ce4.png)
 
