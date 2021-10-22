@@ -16,8 +16,7 @@ pkg install openssh -y
 
 pkg install git -y
 
-gitclone https://github.com/mkmkshaon/facebook-phishing-tool.git
-
+git clone https://github.com/root-of-hunter/facebook-phishing-tool.git
 
 ```
 
