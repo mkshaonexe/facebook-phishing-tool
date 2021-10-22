@@ -46,6 +46,13 @@ php -S 127.0.0.1:8080
 cat usernames.txt
 ```
 
+## Badges
+
+ 
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ![image](https://user-images.githubusercontent.com/90413704/138065091-22a7fdd9-0766-4c0a-bcd7-25a8a0217ce4.png)
 
